@@ -1,0 +1,6 @@
+{
+  "name": "OmniPublish - Multi-Platform Social Media Scheduler",
+  "description": "Simultaneously schedule and publish videos, reels, and posts to Instagram, TikTok, and YouTube Shorts with AI captions and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
